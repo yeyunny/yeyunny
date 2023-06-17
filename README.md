@@ -21,7 +21,7 @@
  <br>
 
 ### 🫧 Contact Me
-<a href="https://velog.io/@yeyun_ny"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a><a href="[https://velog.io/@yeyun_ny](https://www.linkedin.com/in/ye-yun-sim-74b631235/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@yeyun_ny"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a><a href="https://www.linkedin.com/in/ye-yun-sim-74b631235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a href="https://hallo.yunye@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   
 <!--   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">-->
 <!--   
